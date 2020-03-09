@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Abay</string>
+    <string name="welcome">Welcome to Abay</string>
+    <string name="time">Spent time in the activity</string>
+    <string name="score">Score</string>
+    <string name="quit">Quit</string>
+    <string name="author">Made by Razakov Abay 11A</string>
+    <string name="quiz">Quiz</string>
+    <string name="press">Press the button</string>
+    <string name="switchcase">Switch app</string>
+    <string name="color">Your favourite color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+</resources>
